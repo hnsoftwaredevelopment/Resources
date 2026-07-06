@@ -1,0 +1,11 @@
+<Style x:Key="EntryLabel" TargetType="Label">
+    <Setter Property="FontFamily" Value="pack://application:,,,/Resources/Fonts/Fredoka.ttf"/>
+    <Setter Property="FontSize" Value="11" />
+    <Setter Property="FontStyle" Value="Italic"/>
+    <Setter Property="FontWeight" Value="SemiBold" />
+    <Setter Property="Foreground" Value="{DynamicResource EntryFontBrush}" />
+    <Setter Property="Margin" Value="5,2,0,-5" />
+    <Setter Property="HorizontalAlignment" Value="Left" />
+    <Setter Property="VerticalAlignment" Value="Bottom" />
+    <Setter Property="VerticalContentAlignment" Value="Bottom" />
+</Style>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   height="26"
+   width="25.716436"
+   viewBox="0 0 25.716436 26"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="next.svg"
+   inkscape:version="1.4-beta (62f545ba5e, 2024-04-22)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="16.104167"
+     inkscape:cx="12.884864"
+     inkscape:cy="13.009056"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
+  <g
+     id="g1"
+     transform="translate(-11.141782,-11)">
+    <path
+       id="path1"
+       transform="matrix(0.8125,0,0,0.8125,11.141782,11)"
+       fill="#000080"
+       d="M 0,0 15.825011,8.0009766 31.650999,15.997986 15.825011,23.998993 0,32 V 15.997986 Z" />
+  </g>
+</svg>

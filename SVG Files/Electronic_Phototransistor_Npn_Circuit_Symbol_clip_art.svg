@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="170"
+   height="170"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.46"
+   version="1.0"
+   sodipodi:docname="fototransistor-npn-schalt.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   inkscape:export-filename="/home/nfs/flori/www/svn/elektronik-lexikon/data/src/fototransistor-npn-schalt.png"
+   inkscape:export-xdpi="52.941177"
+   inkscape:export-ydpi="52.941177">
+  <defs
+     id="defs4">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective10" />
+    <inkscape:perspective
+       id="perspective2484"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.0286512"
+     inkscape:cx="67.179426"
+     inkscape:cy="92.604863"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1024"
+     inkscape:window-height="699"
+     inkscape:window-x="0"
+     inkscape:window-y="0" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g3434"
+       transform="translate(-13.643565,-17.017947)">
+      <path
+         transform="matrix(0.8828452,0,0,0.8828452,-3.0085042,-6.777756)"
+         d="M 197.28712,124.04102 A 82.145683,82.145683 0 1 1 32.995758,124.04102 A 82.145683,82.145683 0 1 1 197.28712,124.04102 z"
+         sodipodi:ry="82.145683"
+         sodipodi:rx="82.145683"
+         sodipodi:cy="124.04102"
+         sodipodi:cx="115.14144"
+         id="path3264"
+         style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:7.92890978;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         sodipodi:type="arc" />
+      <rect
+         y="76.609627"
+         x="82.394623"
+         height="52.243282"
+         width="16.497879"
+         id="rect3266"
+         style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="cccccc"
+         id="path3268"
+         d="M 148.1372,182.51397 L 148.1372,156.09158 L 92.714638,119.8262 L 92.714638,85.765205 L 148.1372,49.705799 L 148.1372,21.521924"
+         style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="cccc"
+         id="rect3273"
+         d="M 127.15684,142.33008 L 112.63189,141.85738 L 121.07638,129.22913 L 127.15684,142.33008 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:4;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1" />
+      <g
+         transform="translate(0,-0.7642406)"
+         id="g3282">
+        <path
+           style="fill:#000000"
+           d="M 54.397812,101.30526 L 58.712502,94.400102 L 43.379826,84.293481 L 46.10967,80.261367 L 61.42619,90.354045 L 65.663351,84.062155 L 74.645259,102.72965 L 54.397812,101.30526 z"
+           id="path3276"
+           sodipodi:nodetypes="cccccccc" />
+        <path
+           sodipodi:nodetypes="cccccccc"
+           id="path3280"
+           d="M 54.397812,125.30526 L 58.712502,118.4001 L 43.379826,108.29348 L 46.10967,104.26137 L 61.42619,114.35404 L 65.663351,108.06216 L 74.645259,126.72965 L 54.397812,125.30526 z"
+           style="fill:#000000" />
+      </g>
+    </g>
+  </g>
+</svg>

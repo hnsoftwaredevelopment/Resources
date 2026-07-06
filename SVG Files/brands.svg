@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="svg3684"
+   viewBox="0 0 25 25"
+   version="1.1"
+   width="25"
+   height="25"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs1" />
+  <g
+     id="layer1"
+     transform="matrix(0.13888889,0,0,0.13888889,-45.722223,-52.081945)">
+    <path
+       id="path3861"
+       transform="matrix(2,0,0,2,119.2,124.99)"
+       fill="#333333"
+       d="m 195,170 c 0,24.853 -20.147,45 -45,45 -24.853,0 -45,-20.147 -45,-45 0,-24.853 20.147,-45 45,-45 24.853,0 45,20.147 45,45 z"
+       style="fill:#008080" />
+    <path
+       id="path3863"
+       transform="matrix(1.8889,0,0,1.8889,135.87,143.88)"
+       fill="#ffffff"
+       d="m 195,170 c 0,24.853 -20.147,45 -45,45 -24.853,0 -45,-20.147 -45,-45 0,-16.41778 8.79188,-30.78193 21.92438,-38.64119 C 133.67167,127.32084 141.56478,125 150,125 c 24.853,0 45,20.147 45,45 z"
+       style="fill:#f9f9f9" />
+    <path
+       id="path3041"
+       transform="matrix(1.1111,0,0,1.1111,252.54,276.1)"
+       fill="#333333"
+       d="m 195,170 c 0,24.853 -20.147,45 -45,45 -24.853,0 -45,-20.147 -45,-45 0,-24.853 20.147,-45 45,-45 24.853,0 45,20.147 45,45 z"
+       style="fill:#000080" />
+    <path
+       id="path3049"
+       fill="#333333"
+       d="m 474.2,458.99 v 12 l 25,-4 v -4 z"
+       style="fill:#000080" />
+    <path
+       id="path3839"
+       fill="#333333"
+       d="m 470.78,444.96 3.1058,11.591 23.113,-10.334 -1.0353,-3.8637 z"
+       style="fill:#000080" />
+    <path
+       id="path3841"
+       fill="#333333"
+       d="m 473.88,473.43 -3.1058,11.591 25.183,2.6068 1.0353,-3.8637 z"
+       style="fill:#000080" />
+    <path
+       id="path3843"
+       fill="#333333"
+       d="m 413.2,409.99 h 12 l -4,-25 h -4 z"
+       style="fill:#000080" />
+    <path
+       id="path3845"
+       fill="#333333"
+       d="m 399.17,413.41 11.591,-3.1058 -10.334,-23.113 -3.8637,1.0353 z"
+       style="fill:#000080" />
+    <path
+       id="path3847"
+       fill="#333333"
+       d="m 427.64,410.31 11.591,3.1058 2.6068,-25.183 -3.8637,-1.0353 z"
+       style="fill:#000080" />
+    <path
+       id="path3849"
+       fill="#333333"
+       d="m 364.2,470.99 v -12 l -25,4 v 4 z"
+       style="fill:#000080" />
+    <path
+       id="path3851"
+       fill="#333333"
+       d="m 367.63,485.02 -3.1058,-11.591 -23.113,10.334 1.0353,3.8637 z"
+       style="fill:#000080" />
+    <path
+       id="path3853"
+       fill="#333333"
+       d="m 364.52,456.55 3.1058,-11.591 -25.183,-2.6068 -1.0353,3.8637 z"
+       style="fill:#000080" />
+    <path
+       id="path3855"
+       fill="#333333"
+       d="m 425.2,519.99 h -12 l 4,25 h 4 z"
+       style="fill:#000080" />
+    <path
+       id="path3857"
+       fill="#333333"
+       d="m 439.23,516.56 -11.591,3.1058 10.334,23.113 3.8637,-1.0353 z"
+       style="fill:#000080" />
+    <path
+       id="path3859"
+       fill="#333333"
+       d="m 410.76,519.67 -11.591,-3.1058 -2.6068,25.183 3.8637,1.0353 z"
+       style="fill:#000080" />
+    <path
+       id="path3866"
+       fill="#ffffff"
+       d="m 387.2,474.99 c 0,3.024 -0.32836,3.632 -0.66436,4.016 -0.432,0.528 -2.1196,0.984 -4.6156,0.984 h -0.72 v 3 h 20 v -3 h -0.72 c -2.496,0 -4.2004,-0.456 -4.6324,-0.984 -0.336,-0.384 -0.64764,-0.94401 -0.64764,-4.016 v -20 c 0,-3.072 0.31164,-3.632 0.64764,-4.016 0.432,-0.528 2.1364,-0.984 4.6324,-0.984 h 0.72 v -3 h -20 v 3 h 0.72 c 2.496,0 4.1836,0.456 4.6156,0.984 0.336,0.384 0.66436,0.992 0.66436,4.016 v 20"
+       style="fill:#ffff00" />
+    <path
+       id="path3872"
+       fill="#ffffff"
+       d="m 443.2,474.99 c 0,3.024 -0.32836,3.632 -0.66436,4.016 -0.432,0.528 -2.1196,0.984 -4.6156,0.984 h -0.72 v 3 h 20 v -3 h -0.72 c -2.496,0 -4.2004,-0.456 -4.6324,-0.984 -0.336,-0.384 -0.64764,-0.94401 -0.64764,-4.016 v -20 c 0,-3.072 0.31164,-3.632 0.64764,-4.016 0.432,-0.528 2.1364,-0.984 4.6324,-0.984 h 0.72 v -3 h -20 v 3 h 0.72 c 2.496,0 4.1836,0.456 4.6156,0.984 0.336,0.384 0.66436,0.992 0.66436,4.016 v 20"
+       style="fill:#ffff00" />
+    <path
+       id="path3008"
+       fill="#ffffff"
+       d="m 429.48,453.68 c 2.16,-2.544 5.232,-3.504 7.728,-3.696 v -3 c 0,0 -6,2e-5 -9,0 -3,-2e-5 -20.088,28.152 -20.088,28.152 -2.784,3.408 -4.128,4.752 -6.912,4.848 v 3 c 0,0 5,-2e-5 8,-2e-5 3,0 20.272,-29.304 20.272,-29.304 z"
+       style="fill:#ffff00" />
+    <path
+       id="path3010"
+       fill="#ffffff"
+       d="m 408.93,453.68 c -2.16,-2.544 -5.232,-3.504 -7.728,-3.696 v -3 c 0,0 6,2e-5 9,0 3,-2e-5 20.088,28.152 20.088,28.152 2.784,3.408 4.128,4.752 6.912,4.848 v 3 c 0,0 -5,-2e-5 -8,-2e-5 -3,0 -20.272,-29.304 -20.272,-29.304 z"
+       style="fill:#ffff00" />
+  </g>
+  <metadata
+     id="metadata1">
+    <rdf:RDF>
+      <cc:Work>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <cc:license
+           rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/" />
+        <dc:publisher>
+          <cc:Agent
+             rdf:about="http://openclipart.org/">
+            <dc:title>Openclipart</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:date>2012-06-07T17:11:12</dc:date>
+        <dc:description>A brand logo that I invented. It or a variant might become used in trigger rally ( http://trigger-rally.sf.net )</dc:description>
+        <dc:source>http://openclipart.org/detail/170460/fictional-brand-logo:-ixi-variant-e-by-qubodup-170460</dc:source>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>qubodup</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>brand</rdf:li>
+            <rdf:li>car</rdf:li>
+            <rdf:li>clip art</rdf:li>
+            <rdf:li>clipart</rdf:li>
+            <rdf:li>copyright</rdf:li>
+            <rdf:li>fictional</rdf:li>
+            <rdf:li>identity</rdf:li>
+            <rdf:li>invented</rdf:li>
+            <rdf:li>logo</rdf:li>
+            <rdf:li>marketing</rdf:li>
+            <rdf:li>motor</rdf:li>
+            <rdf:li>nonreal</rdf:li>
+            <rdf:li>trademark</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/publicdomain/zero/1.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+</svg>

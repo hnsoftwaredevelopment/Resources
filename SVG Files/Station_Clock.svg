@@ -1,0 +1,23 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="800px" height="800px" viewBox="0 0 800 800">
+	<circle cx="400" cy="400" r="400" fill="#fff"/>
+	<use transform="matrix(-1,0,0,1,800,0)" xlink:href="#one-half"/>
+	<g id="one-half">
+		<g id="one-fourth">
+			<path d="m400 40v107" stroke="#000" stroke-width="26.7"/>
+			<g id="one-twelfth">
+				<path d="m580 88.233-42.5 73.612" stroke="#000" stroke-width="26.7"/>
+				<g id="one-thirtieth">
+					<path id="one-sixtieth" d="m437.63 41.974-3.6585 34.808" stroke="#000" stroke-width="13.6" />
+					<use transform="rotate(6 400 400)" xlink:href="#one-sixtieth"/>
+				</g>
+				<use transform="rotate(12 400 400)" xlink:href="#one-thirtieth"/>
+			</g>
+			<use transform="rotate(30 400 400)" xlink:href="#one-twelfth"/>
+			<use transform="rotate(60 400 400)" xlink:href="#one-twelfth"/>
+		</g>
+		<use transform="rotate(90 400 400)" xlink:href="#one-fourth"/>
+	</g>
+	<path d="m 381.9245,476.32392 36.151,-0.344 v -300.01 L 400,156.25 381.9245,175.96992 Z" transform="rotate(110.2650694444, 400, 400)" />
+	<path d="M 412.063,496.87456 H 387.937 L 385.249,65.68306 400,52.75 414.751,65.68306 Z" transform="rotate(243.1808333333, 400, 400)" />
+	<path fill="#a40000" d="m 391.5255,498.22282 h 16.949 l -3.2875,-246.75906 -10.374,2.4e-4 z m 8.474,-330.03457 c -22.9528,-2e-5 -41.7989,18.84802 -41.7989,41.80078 0,22.95276 18.8461,41.79886 41.7989,41.79883 22.9527,-5e-5 41.8007,-18.84612 41.8007,-41.79883 0,-22.95271 -18.848,-41.80073 -41.8007,-41.80078 z m 0,22.36914 c 10.8642,3e-5 19.4316,8.56742 19.4316,19.43164 0,10.86423 -8.5674,19.43162 -19.4316,19.43164 -10.8643,2e-5 -19.4317,-8.56739 -19.4317,-19.43164 0,-10.86425 8.5674,-19.43165 19.4317,-19.43164 z m -4.0797,-22.16919 8.16041,1.1e-4 L 402.683,63.51744 400,60 l -2.683,3.51744 z" transform="rotate(190.85, 400, 400)" />
+</svg>

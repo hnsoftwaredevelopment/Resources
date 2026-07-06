@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+
+<svg
+   fill="#000000"
+   height="25"
+   width="24.999998"
+   version="1.1"
+   id="Capa_1"
+   viewBox="0 0 9.7109368 9.7109375"
+   xml:space="preserve"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+   id="defs1"><linearGradient
+     id="linearGradient1"><stop
+       style="stop-color:#00006f;stop-opacity:1;"
+       offset="0"
+       id="stop1" /><stop
+       style="stop-color:#00005e;stop-opacity:0.33834586;"
+       offset="1"
+       id="stop2" /></linearGradient><linearGradient
+     xlink:href="#linearGradient1"
+     id="linearGradient2"
+     x1="10.108"
+     y1="155.375"
+     x2="300.642"
+     y2="155.375"
+     gradientUnits="userSpaceOnUse"
+     gradientTransform="matrix(0.03342444,0,0,0.03125,-0.3378543,0)" /></defs>
+<path
+   d="m 5.80606,8.3039375 c -1.084423,0 -2.034479,-0.6824062 -2.550486,-1.6976562 H 6.668243 V 5.1993125 H 2.85896 C 2.84946,5.0855 2.84435,4.9715 2.84435,4.8550625 c 0,-0.1153438 0.0051,-0.23075 0.01461,-0.3430313 h 3.80935 v -1.40725 H 3.255608 C 3.771614,2.089625 4.721637,1.4074375 5.806093,1.4074375 c 1.036492,0 2.012486,0.6487188 2.546943,1.69225 L 9.710937,2.492875 C 8.923758,0.9548125 7.427613,0 5.80606,0 4.58707,0 3.449302,0.52078125 2.602294,1.4676875 2.176299,1.9440312 1.850812,2.4998438 1.636828,3.1047812 H 0 V 4.512 h 1.350013 c -0.0073,0.1130312 -0.011,0.2284687 -0.011,0.3430312 0,0.11575 0.0037,0.2297188 0.011,0.34425 H 0 V 6.60625 h 1.636828 c 0.213984,0.604875 0.539471,1.1600625 0.965499,1.6359687 0.847009,0.9469688 1.984777,1.4687188 3.203766,1.4687188 1.621587,0 3.117665,-0.9546875 3.904844,-2.4927188 L 8.353036,6.6102812 C 7.818546,7.6551562 6.842552,8.3039375 5.80606,8.3039375 Z"
+   id="path1"
+   style="fill:url(#linearGradient2);stroke-width:0.032319" />
+</svg>

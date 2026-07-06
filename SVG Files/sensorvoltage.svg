@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="11.076307mm"
+   height="9.6279573mm"
+   viewBox="0 0 11.076308 9.6279573"
+   version="1.1"
+   id="svg1"
+   xml:space="preserve"
+   inkscape:version="1.4-beta2 (9aaf4f3498, 2024-07-30)"
+   sodipodi:docname="sensorvoltage.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="3.9408307"
+     inkscape:cx="50.623845"
+     inkscape:cy="81.962415"
+     inkscape:current-layer="svg1" /><defs
+     id="defs1"><inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 238.80903 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.0946 : 238.80903 : 1"
+       inkscape:persp3d-origin="372.0473 : 63.415338 : 1"
+       id="perspective10" /><inkscape:perspective
+       id="perspective2484"
+       inkscape:persp3d-origin="372.0473 : 63.415338 : 1"
+       inkscape:vp_z="744.0946 : 238.80903 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 238.80903 : 1"
+       sodipodi:type="inkscape:persp3d" /></defs><path
+     style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.265;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+     d="M 0.13249794,4.813978 2.8351922,0.13249999 h 5.405856 L 10.943809,4.814 8.2410482,9.495457 h -5.405856 z"
+     id="path26" /><g
+     style="fill:#000000"
+     id="g26"
+     transform="matrix(0.01277909,0,0,0.01277909,1.9579892,1.233814)"><g
+       id="g2">
+	<g
+   id="g1">
+		<path
+   d="m 207.523,560.316 c 0,0 194.42,-421.925 194.444,-421.986 l 10.79,-23.997 c -41.824,12.02 -135.271,34.902 -135.57,35.833 C 286.96,122.816 329.017,0 330.829,0 290.853,0 250.877,0 210.902,0 L 198.735,57.938 147.559,267.933 282.75,231.127 Z"
+   id="path1" />
+	</g>
+</g></g></svg>

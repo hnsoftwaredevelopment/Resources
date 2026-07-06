@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="11.076307mm"
+   height="9.6279573mm"
+   viewBox="0 0 11.076308 9.6279573"
+   version="1.1"
+   id="svg1"
+   xml:space="preserve"
+   inkscape:version="1.4-beta2 (9aaf4f3498, 2024-07-30)"
+   sodipodi:docname="sensorpressure.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="10.744967"
+     inkscape:cx="43.787943"
+     inkscape:cy="13.773891"
+     inkscape:current-layer="svg1" /><defs
+     id="defs1"><inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 238.80903 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.0946 : 238.80903 : 1"
+       inkscape:persp3d-origin="372.0473 : 63.415338 : 1"
+       id="perspective10" /><inkscape:perspective
+       id="perspective2484"
+       inkscape:persp3d-origin="372.0473 : 63.415338 : 1"
+       inkscape:vp_z="744.0946 : 238.80903 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 238.80903 : 1"
+       sodipodi:type="inkscape:persp3d" /></defs><path
+     style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.265;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+     d="M 0.13249794,4.813978 2.8351922,0.13249999 h 5.405856 L 10.943809,4.814 8.2410482,9.495457 h -5.405856 z"
+     id="path26" /><path
+     style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.265;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+     d="m 4.8898656,7.1805066 v 1.269941"
+     id="path28" /><path
+     id="path40"
+     style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.265;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+     d="m 5.4761849,2.2009154 v 5.2261262 0 M 6.3798667,4.8139785 H 9.104124 v 0 m -3.2815433,0 1.3621286,0.7864253 V 4.0275532 Z m -3.8503978,0 h 2.7242573 v 0 m 0.5291667,0 -1.3621286,0.7864253 V 4.0275532 Z" /></svg>
