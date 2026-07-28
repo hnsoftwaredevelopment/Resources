@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Gravit.io -->
+
+<svg
+   style="isolation:isolate"
+   viewBox="0 0 47 51"
+   width="47pt"
+   height="51pt"
+   version="1.1"
+   id="svg23"
+   sodipodi:docname="FileTypePDF.svg"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview23"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="pt"
+     inkscape:zoom="11.955882"
+     inkscape:cx="31.365314"
+     inkscape:cy="34"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="1912"
+     inkscape:window-y="-1"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg23" />
+  <defs
+     id="defs1">
+    <clipPath
+       id="_clipPath_knMlB79E1IX74676tRxEyB97Q4hJHcn3">
+      <rect
+         width="47"
+         height="51"
+         id="rect1" />
+    </clipPath>
+  </defs>
+  <g
+     clip-path="url(#_clipPath_knMlB79E1IX74676tRxEyB97Q4hJHcn3)"
+     id="g23">
+    <mask
+       id="_mask_s7xgOHB8e7PoAPLOmkobKvSA60Xfmf0w">
+      <path
+         d=" M 47 15 L 47 48.505 C 47 49.882 45.882 51 44.505 51 L 7.495 51 C 6.118 51 5 49.882 5 48.505 L 5 2.495 C 5 1.118 6.118 0 7.495 0 L 32 0 L 47 15 L 47 15 Z "
+         fill="white"
+         stroke="none"
+         id="path1" />
+    </mask>
+    <path
+       d=" M 47 15 L 47 48.505 C 47 49.882 45.882 51 44.505 51 L 7.495 51 C 6.118 51 5 49.882 5 48.505 L 5 2.495 C 5 1.118 6.118 0 7.495 0 L 32 0 L 47 15 L 47 15 Z "
+       fill="rgb(255,255,255)"
+       id="path2" />
+    <path
+       d=" M 47 15 L 47 48.505 C 47 49.882 45.882 51 44.505 51 L 7.495 51 C 6.118 51 5 49.882 5 48.505 L 5 2.495 C 5 1.118 6.118 0 7.495 0 L 32 0 L 47 15 L 47 15 Z "
+       fill="rgb(255,255,255)"
+       mask="url(#_mask_s7xgOHB8e7PoAPLOmkobKvSA60Xfmf0w)"
+       vector-effect="non-scaling-stroke"
+       stroke-width="2"
+       stroke="rgb(255,0,0)"
+       stroke-linejoin="miter"
+       stroke-linecap="square"
+       stroke-miterlimit="3"
+       id="path3" />
+    <mask
+       id="_mask_uffdwJByxwEAI31MPul3DIJjW8CO2EbS">
+      <path
+         d=" M 32 0 L 32 12.505 C 32 13.882 33.118 15 34.495 15 L 47 15 L 32 0 L 32 0 Z "
+         fill="white"
+         stroke="none"
+         id="path4" />
+    </mask>
+    <path
+       d=" M 32 0 L 32 12.505 C 32 13.882 33.118 15 34.495 15 L 47 15 L 32 0 L 32 0 Z "
+       fill="rgb(255,255,255)"
+       id="path5" />
+    <path
+       d=" M 32 0 L 32 12.505 C 32 13.882 33.118 15 34.495 15 L 47 15 L 32 0 L 32 0 Z "
+       fill="rgb(255,255,255)"
+       mask="url(#_mask_uffdwJByxwEAI31MPul3DIJjW8CO2EbS)"
+       vector-effect="non-scaling-stroke"
+       stroke-width="2"
+       stroke="rgb(255,0,0)"
+       stroke-linejoin="miter"
+       stroke-linecap="square"
+       stroke-miterlimit="3"
+       id="path6" />
+    <g
+       id="g19">
+      <g
+         id="g12">
+        <g
+           id="g11">
+          <g
+             id="g7">
+            <path
+               d=" M 16 15.01 C 16 15.985 17.254 16.776 18.8 16.776 C 20.346 16.776 21.6 15.985 21.6 15.01 C 21.6 14.034 20.346 13.243 18.8 13.243 C 17.254 13.243 16 14.034 16 15.01 Z "
+               fill="rgb(0,0,0)"
+               id="path7" />
+          </g>
+          <g
+             id="g8">
+            <path
+               d=" M 24.4 12.654 C 24.4 13.63 25.654 14.421 27.2 14.421 C 28.746 14.421 30 13.63 30 12.654 C 30 11.679 28.746 10.888 27.2 10.888 C 25.654 10.888 24.4 11.679 24.4 12.654 Z "
+               fill="rgb(0,0,0)"
+               id="path8" />
+          </g>
+          <g
+             id="g9">
+            <path
+               d=" M 20.2 6.666 L 21.6 6.666 L 21.6 15.01 L 20.2 15.01 L 20.2 6.666 Z  M 30 12.654 L 28.6 12.654 L 28.6 5.942 L 30 5.589 L 30 12.654 Z "
+               fill="rgb(0,0,0)"
+               id="path9" />
+          </g>
+          <g
+             id="g10">
+            <path
+               d=" M 30 5 L 30 6.178 L 20.2 7.355 L 20.2 6.178 L 30 5 Z "
+               fill="rgb(0,0,0)"
+               id="path10" />
+          </g>
+        </g>
+      </g>
+      <line
+         x1="8"
+         y1="14"
+         x2="15"
+         y2="14"
+         vector-effect="non-scaling-stroke"
+         stroke-width="1"
+         stroke="rgb(0,0,0)"
+         stroke-linejoin="miter"
+         stroke-linecap="square"
+         stroke-miterlimit="3"
+         id="line12" />
+      <line
+         x1="23"
+         y1="14"
+         x2="24"
+         y2="14"
+         vector-effect="non-scaling-stroke"
+         stroke-width="1"
+         stroke="rgb(0,0,0)"
+         stroke-linejoin="miter"
+         stroke-linecap="square"
+         stroke-miterlimit="3"
+         id="line13" />
+      <line
+         x1="8"
+         y1="12"
+         x2="19"
+         y2="12"
+         vector-effect="non-scaling-stroke"
+         stroke-width="1"
+         stroke="rgb(0,0,0)"
+         stroke-linejoin="miter"
+         stroke-linecap="square"
+         stroke-miterlimit="3"
+         id="line14" />
+      <line
+         x1="23"
+         y1="12"
+         x2="23.5"
+         y2="12"
+         vector-effect="non-scaling-stroke"
+         stroke-width="1"
+         stroke="rgb(0,0,0)"
+         stroke-linejoin="miter"
+         stroke-linecap="square"
+         stroke-miterlimit="3"
+         id="line15" />
+      <path
+         d=" M 16 15.01 C 16 15.985 17.254 16.776 18.8 16.776 C 20.346 16.776 21.6 15.985 21.6 15.01 C 21.6 14.034 20.346 13.243 18.8 13.243 C 17.254 13.243 16 14.034 16 15.01 Z "
+         fill="rgb(0,0,0)"
+         id="path15" />
+      <line
+         x1="8"
+         y1="10"
+         x2="19"
+         y2="10"
+         vector-effect="non-scaling-stroke"
+         stroke-width="1"
+         stroke="rgb(0,0,0)"
+         stroke-linejoin="miter"
+         stroke-linecap="square"
+         stroke-miterlimit="3"
+         id="line16" />
+      <line
+         x1="23"
+         y1="10"
+         x2="27"
+         y2="10"
+         vector-effect="non-scaling-stroke"
+         stroke-width="1"
+         stroke="rgb(0,0,0)"
+         stroke-linejoin="miter"
+         stroke-linecap="square"
+         stroke-miterlimit="3"
+         id="line17" />
+      <line
+         x1="23"
+         y1="8"
+         x2="27"
+         y2="8"
+         vector-effect="non-scaling-stroke"
+         stroke-width="1"
+         stroke="rgb(0,0,0)"
+         stroke-linejoin="miter"
+         stroke-linecap="square"
+         stroke-miterlimit="3"
+         id="line18" />
+      <line
+         x1="8"
+         y1="8"
+         x2="19"
+         y2="8"
+         vector-effect="non-scaling-stroke"
+         stroke-width="1"
+         stroke="rgb(0,0,0)"
+         stroke-linejoin="miter"
+         stroke-linecap="square"
+         stroke-miterlimit="3"
+         id="line19" />
+    </g>
+    <path
+       d="M 2.7 30 L 27.3 30 C 28.79 30 30 31.21 30 32.7 L 30 42.3 C 30 43.79 28.79 45 27.3 45 L 2.7 45 C 1.21 45 0 43.79 0 42.3 L 0 32.7 C 0 31.21 1.21 30 2.7 30 Z"
+       style="stroke:none;fill:#FF0000;stroke-miterlimit:10;"
+       id="path19" />
+    <g
+       clip-path="url(#_clipPath_b6Ysu0SGPp6mSNxNGheii4fPkb4t88M1)"
+       id="g20">
+      <text
+         transform="matrix(1,0,0,1,3,41.826)"
+         style="font-family:'Open Sans';font-weight:700;font-size:12px;font-style:normal;fill:#ffffff;stroke:none;"
+         id="text19">PDF</text>
+    </g>
+    <defs
+       id="defs20">
+      <clipPath
+         id="_clipPath_b6Ysu0SGPp6mSNxNGheii4fPkb4t88M1">
+        <rect
+           x="0"
+           y="0"
+           width="30"
+           height="16.342"
+           transform="matrix(1,0,0,1,3,29)"
+           id="rect20" />
+      </clipPath>
+    </defs>
+    <g
+       opacity="0.4"
+       id="g21" />
+    <g
+       clip-path="url(#_clipPath_55lvJRqkphRTd8ZbAgzLuWTEc3IzcYcN)"
+       id="g22">
+      <text
+         transform="matrix(1,0,0,1,8.372,27.166)"
+         style="font-family:'ABeeZee';font-weight:400;font-size:7px;font-style:normal;fill:#000000;stroke:none;"
+         id="text21">Partituren</text>
+    </g>
+    <defs
+       id="defs22">
+      <clipPath
+         id="_clipPath_55lvJRqkphRTd8ZbAgzLuWTEc3IzcYcN">
+        <rect
+           x="0"
+           y="0"
+           width="39.994"
+           height="8"
+           transform="matrix(1,0,0,1,6,21)"
+           id="rect22" />
+      </clipPath>
+    </defs>
+  </g>
+</svg>
