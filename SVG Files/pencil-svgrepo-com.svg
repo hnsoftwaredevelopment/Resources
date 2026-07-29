@@ -1,17 +1,9 @@
-<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml version="1.0" encoding="utf-8"?>
+
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
 <!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
-<svg height="800px" width="800px" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" 
-	 viewBox="0 0 279.705 279.705" xml:space="preserve">
-<g>
-	<path style="fill:#EFC75E;" d="M189.185,34.681l55.13,55.13L72.799,262.203l-55.13-55.13L189.185,34.681z"/>
-	<path style="fill:#F4D88F;" d="M58.246,247.58l151.6-151.6l14.85,14.85l-151.6,151.6L58.246,247.58z"/>
-	<path style="fill:#E3BD59;" d="M17.669,207.073l14.001,14.001L192.686,52.182l-15.752-5.251L17.669,207.073z"/>
-	<path style="fill:#E19178;" d="M242.565,4.928l32.378,32.378c6.126,6.126,6.126,16.627,0,22.752l-35.878,35.878l-55.13-55.13
-		l35.003-35.879C225.939-1.198,236.44-2.073,242.565,4.928z"/>
-	<path style="fill:#CB836D;" d="M227.689,13.679c6.126-6.126,17.502-6.126,23.627,0l23.627,23.627l0,0L242.565,4.928
-		c-6.126-6.126-17.502-6.126-23.627,0.875l-35.003,35.003l8.751,7.876L227.689,13.679z"/>
-	<path style="fill:#ECEEEE;" d="M163.423,60.251l55.515,56.688l26.253-26.253l-56.005-56.005L163.423,60.251z"/>
-	<path style="fill:#DBDEE0;" d="M17.669,207.073L0.167,279.705l72.632-17.502L17.669,207.073z"/>
-	<path style="fill:#BDBFC1;" d="M17.669,262.203H4.542l-4.375,17.502l17.502-4.375V262.203z"/>
-</g>
+<svg version="1.0" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" 
+	 width="800px" height="800px" viewBox="0 0 64 64" enable-background="new 0 0 64 64" xml:space="preserve">
+<path fill="#231F20" d="M62.829,16.484L47.513,1.171c-1.562-1.563-4.094-1.563-5.657,0L0,43.031V64h20.973l41.856-41.855
+	C64.392,20.577,64.392,18.05,62.829,16.484z M18,56H8V46l0.172-0.172l10,10L18,56z"/>
 </svg>
